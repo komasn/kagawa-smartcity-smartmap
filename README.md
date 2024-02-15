@@ -1,3 +1,6 @@
+# テスト用リポジトリ
+香川県坂出市のオープンデータを地図表示させてみようと思います
+
 # smartcity-data-upload-template
 
 Excel / CSV / GeoJSON / Shape ファイルをスマートシティ用のタイルに変換するテンプレートリポジトリです。
